@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  background-color: yellow;
+  justify-content: space-between;
+  padding: 5px 8px;
+  align-items: center;
+
+}
+.header .btn{
+  background-color: brown;
+  color: white;
+  border-radius: 3px;
+}

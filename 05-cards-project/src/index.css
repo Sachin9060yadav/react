@@ -1,0 +1,45 @@
+/* *{
+    background-color: black;
+    color: white;
+} */
+ .card{
+    height: 400px;
+    width: 400px;
+ }
+ .top div{
+    display: flex;
+    justify-content: space-between;
+ }
+ .bottom h1{
+    text-align: center;
+ }
+ .bottom .profile-tag{
+    display: flex;
+    justify-content: space-between;
+ }
+ .bottom .profile-img{
+    text-align: center;
+    
+    
+    
+   
+ }
+ .profile-img img{
+    border-radius: 50%;
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+ }
+ .bottom .designer{
+    text-align: center;
+    justify-content: space-between;
+    gap: 10px;
+ }
+
+ .bottom p{
+    text-align: center;
+ }
+ .bottom button{
+    text-align: center;
+   
+ }
